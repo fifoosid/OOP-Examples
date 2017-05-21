@@ -1,0 +1,9 @@
+﻿  Task_1.cpp
+  InShop.cpp
+c:\users\filip siderov\desktop\task_1\task_1\inshop.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip siderov\desktop\task_1\task_1\inshop.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip siderov\desktop\task_1\task_1\inshop.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\filip siderov\desktop\task_1\task_1\inshop.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Task_1.vcxproj -> C:\Users\Filip Siderov\Desktop\Task_1\Debug\Task_1.exe
+  Task_1.vcxproj -> C:\Users\Filip Siderov\Desktop\Task_1\Debug\Task_1.pdb (Partial PDB)
